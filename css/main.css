@@ -286,3 +286,27 @@ a:hover {
     margin-top: 50px;
   }
 }
+
+@media (max-width: 425px) {
+
+  .wrapper-cooperate {
+    width: 100%;
+  }
+
+  .footer-cooperation {
+    width: 100%;
+  }
+
+  .footer-bottom {
+    width: 100%;
+  }
+
+  .footer-bottom-right {
+    width: 100%;
+  }
+
+  .footer-bottom-right {
+    flex-direction: column;
+  }
+
+}
