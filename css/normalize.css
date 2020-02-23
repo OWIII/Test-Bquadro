@@ -36,12 +36,6 @@ pre {
 a {
   background-color: transparent;
 
-}
-
-a:visited {
-  color: inherit;
-}
-
 abbr[title] {
   border-bottom: none; /* 1 */
   text-decoration: underline; /* 2 */
@@ -213,10 +207,6 @@ blockquote,
 dl,
 dd {
   margin: 0;
-}
-
-a:not([class]) {
-  text-decoration-skip-ink: auto;
 }
 
 img {
